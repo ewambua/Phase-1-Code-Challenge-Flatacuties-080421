@@ -1,0 +1,16 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Today you'll be building an app for voting for the cutest animal! You will be using a local API and building out the frontend for our app, Flatacuties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "json-server": "^0.17.3"
+  }
+}
